@@ -3,17 +3,17 @@
 > Goal, stated honestly: **not** "I can build a CRUD app and a dashboard."
 > The goal is: **when anyone in the room has an API, TypeScript, or React question, you are the person they turn to** — and when an interviewer at Google/Amazon/Stripe pushes three levels deeper than the original question, you're still standing.
 
-This sits alongside your [Spring Boot track](spring%20boot/README.md) and follows the same rules.
+This sits alongside your [Spring Boot track](https://github.com/Pawar-Pratik/SpringBoot) and follows the same rules.
 
 ---
 
 ## The three tracks
 
-| Track | Folder | Lessons | What it makes you |
+| Track | Repo | Lessons | What it makes you |
 |---|---|---|---|
-| **APIs & REST** | [API/](https://github.com/Pawar-Pratik/TypeScript-mastery/blob/14ce11db44d23479228747dbd659ae255e95ba4d/README.md) | 32 | The person who designs the contract everyone else builds against |
-| **TypeScript** | [TypeScript/](https://github.com/Pawar-Pratik/TypeScript-mastery/blob/14ce11db44d23479228747dbd659ae255e95ba4d/README.md) | 22 | The person who makes wrong states *unrepresentable*, not just caught |
-| **React** | [React/](React/README.md) | 30 | The person who knows *why* the UI re-rendered, and makes it stop |
+| **APIs & REST** | [API-mastery](https://github.com/Pawar-Pratik/API-mastery) | 32 | The person who designs the contract everyone else builds against |
+| **TypeScript** | [TypeScript-mastery](https://github.com/Pawar-Pratik/TypeScript-mastery) | 22 | The person who makes wrong states *unrepresentable*, not just caught |
+| **React** | [React-mastery](https://github.com/Pawar-Pratik/React-mastery) | 30 | The person who knows *why* the UI re-rendered, and makes it stop |
 
 **Recommended order:** API → TypeScript → React.
 
@@ -52,7 +52,7 @@ The merchant-facing dashboard for Ledger: a payments table (virtualized, filtera
 
 You end with **one hosted product** you can demo, and every interview answer becomes *"here's how I handled that"* instead of *"I think you'd probably…"*. That difference is the whole game.
 
-> Blueprints: [Ledger API blueprint](API/07-project/28-ledger-blueprint.md) · [Ledger Console blueprint](React/08-project/26-console-blueprint.md)
+> Blueprints: [Ledger API blueprint](https://github.com/Pawar-Pratik/API-mastery/blob/main/07-project/28-ledger-blueprint.md) · [Ledger Console blueprint](https://github.com/Pawar-Pratik/React-mastery/blob/main/08-project/26-console-blueprint.md)
 > Skim them early. Don't start coding them until the lessons say so.
 
 ---
@@ -194,4 +194,4 @@ REACT
 
 **The warning:** you cannot read your way to this. The people who fail aren't the ones lacking intelligence; they're the ones who mistake *understanding a lesson while reading it* for *producing it under pressure*. Close the file and explain it out loud. That discomfort is the learning.
 
-Start here → **[API: Lesson 01 — What an API really is](API/01-foundations/01-what-an-api-really-is.md)**
+Start here → **[API: Lesson 01 — What an API really is](https://github.com/Pawar-Pratik/API-mastery/blob/main/01-foundations/01-what-an-api-really-is.md)**
